@@ -11,12 +11,11 @@
 
 [Click Here](https://www.figma.com/design/FxdX2cF8JFNE6buxM2S2eT/E-commerce-mobile-app---Florist-(Community)?node-id=102-70&node-type=canvas&t=CJydQcEDIDB82QJ5-0)
 
+
 ## External Project Changes
 
-### September 30, 2024
-- **Wix**: Added new testimonials section.
+### September 23, 2024
+- **Wix**: Figure out design and suitable contents.
 - **Figma**: Updated mobile app navigation icons.
 
-git add README.md
-git commit -m "Updated README.md with external changes log"
-git push
+
